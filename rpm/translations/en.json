@@ -1,0 +1,42 @@
+{
+  "seo": {
+    "title": {
+      "home": "Home",
+      "information": "Information",
+      "schedule":"Schedule"
+    },
+    "description": {
+      "home": "RPM fitness center!",
+      "information": "Get in touch",
+      "schedule":"plan your session"
+    }
+  },
+  "navbar": {
+    "navlinks": [
+      { "href": "/information", "text": "Information" },
+      { "href": "/schedule", "text": "Schedule" }
+
+    ]
+  },
+  "homepage": {
+    "header": "Welcome to RPM training center,",
+    "body": "We offer a range of personal training services. If your a sporting group looking to improve fitness or if you just want to train by yourself, we provide the best programs for your needs. ",
+    
+    "cards": [
+
+      {
+        "title": "Have questions? Click Here to find out about pricing and general information",
+        "href": "contact",
+        "linkText": "Info"
+      }
+    ]
+  },
+  "informationPage": {
+    
+  },
+
+  "schedulePage":{
+
+  }
+
+}

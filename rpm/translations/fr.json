@@ -1,0 +1,37 @@
+{
+  "seo": {
+    "title": {
+      "home": "Home",
+      "information": "Information",
+      "schedule": "Horaire"
+    },
+    "description": {
+      "home": "RPM pour l'exercise!",
+      "information": "contactex-nous",
+      "schedule":"Horaire"
+    }
+  },
+  "navbar": {
+    "navlinks": [
+      { "href": "/information", "text": "Information" },
+      { "href": "/schedule", "text": "Horaires" }
+    ]
+  },
+  "homepage": {
+    "header": "Welcome to RPM train,",
+    "body": "We offer a range of personal training services. If your a sporting group looking to improve fitness or if you just want to train by yourself, we provide the best programs for your needs. ",
+    
+    "cards": [
+
+      {
+        "title": "Have questions? Click Here to find out about pricing and general information",
+        "href": "contact",
+        "linkText": "Info"
+      }
+    ]
+  },
+  "informationPage": {
+    
+  }
+}
+
